@@ -1,0 +1,373 @@
+
+heahder{
+}
+.bodyClass{
+    background-image: url(skybluebackground.jpg)
+        }
+.aroundLogin{
+    background-color: white;
+        width: 27%;
+    height: 441px;
+    margin-top: 13%;
+    margin-left: 59%;
+    }
+.loginForm{
+    padding-top: 7%; 
+    padding-left: 10%;
+    padding-bottom: 32%;
+    }
+.formInput{
+    margin-top: 2%;
+    width: 93%;
+}
+.tagNamesUsernamePassword{
+    margin: -5px 0 -18px 0;
+}
+.formSubmitButton{
+    float: left;
+    border: none;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    background-color: deepskyblue;
+}
+.cont{
+    width: 70%;
+    margin-left: 15%;
+    height: 541px;
+}
+#brandName{
+    float: left;
+    color: white;
+   height: 60px;
+    margin-left: 5%;
+}
+form{
+    width: 100%;
+}
+#tfheader{
+    float: left;
+    margin-left: 19%;
+    margin-top: 2%;
+}
+header{
+    background-color: black;
+    position: relative;
+    height: 57px;
+    
+}
+.myAccount{
+    float: left;
+    margin-left: 87%;
+    margin-top: -5%;
+    color: white;
+}
+
+/*End of Header*/
+
+
+
+
+
+/*Beginning of Navigation Bar */
+.secDashboard{
+
+    background-color: black;
+    width: 100%;
+    height: 11%;
+    margin-bottom: 2%;
+}
+li{
+    float: left;
+    width: 20%;
+    text-align: center;
+    height: 40px;
+    color: white;
+    text-decoration: none;
+    padding-top: 19px;
+    margin-top: 1px;
+}
+.myFont{
+    font-family: Helvetica;
+}
+ul{
+    list-style-type: none;
+}
+.active{
+    background-color: green;
+    height: 40px;
+}
+.bgWhite{
+    background-color: white;
+    color: black;
+}
+.projectContent2{
+    width: 98%;
+    margin-left: 1%;
+    padding: 1px;
+    overflow: overlay;
+}
+.projectOverview{
+    clear: both;
+    color: black;
+    width: 97%;
+    margin: 2% 2% 2% 2%
+}
+
+
+/* */
+.pageContent{
+    color:white;
+    background-color: black;
+    padding-bottom: 2%;
+    clear: both;
+}
+.overviewContents{
+    float: left;
+    width: 22%;
+    padding-left: 1%;
+    margin: 0 1% 0 1%;
+    height: 80px;
+    background-color: aliceblue;
+    font-size: 12px;
+}
+.projectUpdatesandBugs {
+    padding: 2%;
+    background-color: gainsboro;
+    border-radius: 2%;
+    overflow: auto;
+    height: inherit;
+    max-height: 163px;
+    margin: 1% 2%;
+}
+.one{
+    border-radius: 1%;
+    margin: 1% 0;
+}
+.oneoffour{
+    background-color: #b3ffb3;
+    padding: 1%;
+}
+.twooffour{
+    background-color: #cceeff;
+    padding: 1%;
+}
+.threeoffour{
+    background-color: #ffe6b3;
+    padding: 1%;
+}
+.fouroffour{
+    background-color: #ffb3ff;
+    padding: 1%;
+}
+.scrollTabs{
+    clear: both;
+    width: 96%;
+    margin: 2% 2%;
+    height: 286px;
+}
+.borderGif{
+    clear: both;
+}
+.leftSide{
+    float: left;
+    width: 30%;
+    text-align: center;
+    color: white;
+    background-color: green;
+    margin-top: 2%;
+    height: 34px;
+    line-height: 2;
+    font-family: Helvetica;
+}
+.rightSide{
+    float: left;
+    background-color: gray;
+    text-align: left;
+    padding-left: 2%;
+    color: white;
+    width: 66%;
+    margin-top: 2%;
+    margin-right: 2%;
+    height: 34px;
+    line-height: 2;
+    font-family: Helvetica
+}
+.scrollBarsBorder{
+    background-color: lightgrey;
+    height: 208px;
+    max-height: 221px;
+    overflow: auto;
+    width: 96%;
+    margin-left: 1%;
+    padding-left: 2%;
+    border-radius: 1%;
+}
+.newli{
+    height: 20px;
+    padding: 1%;
+    border: 1px solid lightgray;
+    width: 22%;
+}
+.projectAnalysis2nd{
+    clear: both;
+    float: left;
+    width: 96%;
+    height: auto;
+    background-color: lightgrey;
+    margin: 2%;
+}
+.myTable {
+    margin: 2% 2% 2% 2%;
+    background-color: white;
+    width: 51%;
+}
+.piechart_3d{
+    width: 100%;
+    height: 187px;
+    clear: both;
+}
+.myTh{
+    background-color: cadetblue;
+}
+.blueFont{
+    color: skyblue;
+}
+.projectA{
+    margin: 1%;
+    border-radius: 1%
+}
+.headingProjectA{
+    background-color: lightgray;
+    color: black;
+    height: 2%;
+    margin-bottom: -22px;
+}
+.projectAContent{
+    background-color: white;
+    color: black;
+    height: 2%;
+}
+#noti{
+    padding-left: 10%;
+    line-height: 2;
+}
+
+.analysisBg{
+    background-color: aliceblue;
+    width: 98%;
+    margin-left: 1%;
+}
+.tableAnalysis{
+    padding-left: 1%;
+    padding-right: 1%;
+    height: 100px;
+    padding-top: 12px;
+    
+}
+#analy{
+    padding-left: 100px;
+    font-family: sans-serif;
+}
+.firstRowData{
+    color: azure;
+}
+.firstRow{
+    background-color: darkmagenta;
+}
+table{
+    padding-top: 1%;
+    width: 99%;
+}
+table, tr, td{
+    border-collapse: collapse;
+    text-align: center;
+}
+.bordercolor, td{
+    border: 1px solid lightgrey;
+}
+td{
+    color: black;
+}
+.createProjectsWindow{
+    background-color: black;
+    color: white;
+    margin-top: 2%;
+    height: 90%;
+}
+h3{
+    margin-top: 10px;
+    padding-left: 58px;
+    padding-top: 25px;
+   /* color: white;*/
+}
+.create_project_confirmation_table{
+    color: black;
+    background-color: white;
+    width: 96%;
+    margin-left: 2%;
+    height: 76%;
+    padding-top: 15px;
+}
+.heading{
+    float: left;
+    text-align: right;
+    width: 30%; 
+    height: 32px;
+}
+.tableBody{
+    margin-left: 50%;
+    height: 32px;
+}
+.buttomButtons{
+    float: left;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 18%;
+    margin-top: 4%;
+    border-radius: 8px;
+}
+.greenButton{
+    background-color: #4CAF50;
+    width: 18%;
+    
+}
+.redButton{
+    background-color: red;
+    width: 18%;
+}
+.heading1, .tableBody1{
+    
+}
+.heading1{
+    float: left;
+    width: 29%;
+    text-align: right;
+    font-size: small;
+}
+.bordereffect{
+    border-radius: 3px;
+}
+.borderColor{
+    border: 1px solid rgba(128, 128, 128, 0.46);
+}
+.tableBody1{
+    width: 40%;
+    margin-left: 7%;
+    font-size: small;
+    margin-bottom: 7px;
+    float: left;
+}
