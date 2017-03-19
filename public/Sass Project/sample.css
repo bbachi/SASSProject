@@ -1,0 +1,29 @@
+body{
+    border: 2px solid black;
+    font-family: Helvetica;
+}
+header, footer{
+    background-color: black;
+    color: azure;
+    text-align: center;
+    padding: 1px;
+}
+header, footer{
+     clear: both;
+}
+td,th, table{
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 2%;
+    width: auto;
+}
+table{
+    margin: 5% auto;
+    border: 5px solid grey;
+    
+}
+td, th{
+    overflow: visible;
+    padding: 2%;
+}
